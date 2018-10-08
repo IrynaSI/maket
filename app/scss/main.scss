@@ -287,8 +287,8 @@
 		padding-top:3px;
 	}
 }
-#top-button{
-	width: 100px;
+.top-button{
+	width: 50px;
 	border: 1px solid #ccc;
 	background: rgba(0,0,0,0.5);
 	text-align:center;
@@ -304,7 +304,7 @@
 	z-index:1000;
 	text-decoration:none;
 }
-#top-button:hover{
+.top-button:hover{
 	background: rgba(0,0,0,0.6);
 }
 /*---Adaptive---*/
